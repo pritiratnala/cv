@@ -1,0 +1,74 @@
+body{
+    background-image: url("download.jpg");
+  }
+.preethi{
+
+    border-style: dotted;
+    border-color:#BF9270;
+    border-radius: 100%
+  }
+#contact{
+    color: #9C0F48;
+  }
+
+
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-color:#BF9270;
+    border-width: 6px;
+    width:30%;
+  }
+
+img{
+  height:150px;
+  width:150px;
+}
+
+h3{
+  color: #9C0F48;
+  font-family:cursive;
+  font-size: 20px;
+  font-weight: 500;
+}
+h1{
+  color: #9C0F48;
+}
+a{
+  color: #9C0F48;
+}
+
+p{
+  color: #D67D3E
+  font-family:cursive;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+li{
+  color: #D67D3E;
+  font-family:cursive;
+  font-size: 17px;
+  font-weight: 500;
+}
+h4{
+  color: #9C0F48;
+  font-family:cursive;
+}
+label{
+    color: #D67D3E;
+    font-family:cursive;
+    font-size: 17px;
+    font-weight: 500;
+}
+input{
+  border-style: dashed;
+  border-color: #BF9270;
+  background-color: #EDCDBB;
+}
+textarea{
+  border-style: dashed;
+  border-color: #BF9270;
+  border-width: medium;
+  background-color: #EDCDBB;
+}
